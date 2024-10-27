@@ -1,0 +1,139 @@
+/*arka renk*/
+body{
+    background-color:rgb(152, 140, 126);
+}
+#ortakısım{
+    border-style: none;
+    border-color:rgb(120, 111, 111);
+    height: 600px;
+    width: 600px;
+    margin: auto;
+    margin-top: 30px;
+}
+header{
+    background-color: white;
+    height: 100px;
+}
+#kare{
+    background-color:rgb(63, 63, 158);
+    height: 15px;
+    width: 15px;
+    position:relative;
+    left: 50px;
+    top: 28px;
+    border-radius: 15px;
+}
+#isimim{
+    font-size: xx-large;
+    position: relative;
+    left: 90px;
+    top: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#meslek{
+    color: grey;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    position: relative;
+    left: 100px;
+    top: 5px;
+}
+img{
+    width: 190px;
+    position: relative;
+    left:205px;
+    top: 30px;
+    border-radius: 190px;
+}
+article{
+    color: rgb(59, 76, 101);
+    height: 420px;
+    background-color:rgb(156, 126, 90);
+}
+#ogren{
+    color: rgb(59, 76, 101);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    position: relative;
+    left: 235px;
+    top: 30px;
+}
+#çizgi{
+    height: 5px;
+    width: 100px;
+    background-color: rgb(63, 63, 158);
+    position: relative;
+    left: 250px;
+    top: 40px;
+}
+#tus1{
+   border-style: solid;
+   height: 40px;
+   width: 160px;
+   color:white;
+   font-size: 23px;
+   border-radius: 25px;
+   padding-left: 20px;
+   padding-top: 10px;
+   position: relative;
+   left: 100px;
+   top: 70px;
+}
+#tus2{
+   border-style: solid;
+   height: 40px;
+   width: 160px;
+   color:white;
+   font-size: 20px;
+   border-radius: 25px;
+   padding-left: 15px;
+   padding-right: 10px;
+   padding-top: 13px;
+   position: relative;
+   left: 330px;
+   top: 15px;
+}
+a{text-decoration: none;}
+footer{
+    background-color: white;
+    height: 90px;
+}
+#face{
+    position: relative;
+    top: 5px;
+    left: 80px;
+    width: 80px;
+}
+#insta{
+    position: relative;
+    top: 5px;
+    left: 180px;
+    width: 80px;
+}
+#linkdn{
+    position: relative;
+    top: 5px;
+    left: 280px;
+    width: 80px;
+}
+.sol{
+    position:relative;
+    left:-35px;
+    top: 300px;
+    
+}
+.sag{
+    position: relative;
+    top: -342px;
+    margin-left: 605px;
+}
+.fas{
+    cursor: pointer;
+}
+.okuladi{
+    color: black;
+    background-color: white;
+    position:relative;
+    top: 30px;
+    padding-left: 90px;
+}
